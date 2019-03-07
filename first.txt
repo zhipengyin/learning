@@ -2,4 +2,7 @@
 Git is free software.
 第一次更改！
 第二次更改！
+<<<<<<< HEAD
 changing in master1！
+=======
+>>>>>>> dev
